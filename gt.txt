@@ -1,0 +1,47 @@
+
+
+***Yazılımlar***
+
+İşletim Sistemleri
+  |
+  |-ritimOS: gentoo tabanlı Qt kullanan bir ayrı kafa linux dağıtımı
+  |
+  |_Çanak: ritimOS Tabanlı Akıllı TV Başlatıcısı
+
+Sosyal Medya Siteleri
+  |
+  |-VideoTüpü: Yerli Milli Yutub
+  |
+  |_Merak: Blog + Forum birleşimi
+ 
+
+***Bağdaştırıcılar***
+
+Limon
+ |
+ |_TekTork: 900 Derece 1 Aktive Motorlu bütçe dostu direksiyon seti
+
+
+***Teknik***
+
+Karbonat
+  |
+  |-WAY TO: Modernize Minik Kargo Araba Konsepti
+  |
+  |_Air Lance: E-Ticari konsepti
+
+
+***Donanım***
+
+Karma
+  |
+  |-tatliss: Minik ama Etkili Lensli kamera konspeti
+  |
+  |_byte: Prototip
+
+
+(æ)Gear
+  |
+  |-1. Nesil
+  |
+  |_2. Nesil
