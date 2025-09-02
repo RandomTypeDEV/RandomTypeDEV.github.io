@@ -19,7 +19,14 @@ Sosyal Medya Siteleri
 
 Limon
  |
- |_TekTork: 900 Derece 1 Aktive Motorlu bütçe dostu direksiyon seti
+ |_BASIC & BASIXL:  900 derece NFFB direksiyon seti
+ |
+ |_TekTork:  Hibrit DD 1 Aktive Motorlu orta bütçe direksiyon seti
+ |
+ |_Ultimate:  N/A
+ |
+ |_Logic:  N/A
+
 
 
 ***Teknik***
@@ -44,4 +51,5 @@ Karma
   |
   |-1. Nesil
   |
+
   |_2. Nesil
